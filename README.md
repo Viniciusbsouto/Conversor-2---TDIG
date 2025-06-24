@@ -30,6 +30,7 @@ git clone https://github.com/Viniciusbsouto/Conversor-2---TDIG.git
 3. **Abra o link do local host (ctrl + click) que aparece após executar os comandos.**
    
 👥 Integrantes da Equipe
-@viniciusbsouto
 
-@raifftelecio
+Vinicius Souto (@viniciusbsouto)
+
+Raiff Telecio (@raifftelecio)
