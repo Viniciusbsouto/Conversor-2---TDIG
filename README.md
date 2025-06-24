@@ -1,18 +1,31 @@
-Projeto LDIG: Conversor de moedas on-line com consumo de API
+💱 Projeto LDIG - Conversor de Moedas Online
+Aplicação web desenvolvida para conversão de moedas em tempo real, consumindo dados de uma API pública.
 
-Tecnologias utilizadas:
+🚀 Tecnologias Utilizadas
 React
-Vite (permite rodar localmente a aplicação)
 
-Instruções de uso
-1- clonar o repositório "git clone https://github.com/Viniciusbsouto/Conversor-2---TDIG.git"
+Vite (ambiente de desenvolvimento leve e rápido)
 
-2- Através do git bash, execute os seguintes comandos:
-- npm install
-- npm run dev
+🔗 API Utilizada
+Frankfurter API — fornece dados de câmbio atualizados.
 
-3-abrir o link do local host que aparece após executar os comandos (ctrl + click)
+🛠️ Como Executar o Projeto
+Clone o repositório:
 
-Grupo (dupla) composto por:
+bash
+Copiar
+Editar
+git clone https://github.com/Viniciusbsouto/Conversor-2---TDIG.git
+Instale as dependências e inicie o projeto:
+
+bash
+Copiar
+Editar
+npm install
+npm run dev
+Abra o navegador no link gerado (geralmente http://localhost:5173) ou pressione Ctrl + Clique sobre ele no terminal.
+
+👥 Integrantes da Equipe
 @viniciusbsouto
+
 @raifftelecio
