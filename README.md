@@ -31,5 +31,6 @@ git clone https://github.com/Viniciusbsouto/Conversor-2---TDIG.git
    
 👥 Integrantes da Equipe
 
-[@raifftelecio](https://github.com/raifftelecio)
-[@viniciusbsouto](https://github.com/viniciusbsouto)
+Raiff Ferreira Telecio - [@raifftelecio](https://github.com/raifftelecio)
+
+Vinicius Bezerra Souto - [@viniciusbsouto](https://github.com/viniciusbsouto)
