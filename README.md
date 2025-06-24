@@ -20,8 +20,15 @@ Siga os passos abaixo para rodar a aplicação localmente:
 
 ```bash
 git clone https://github.com/Viniciusbsouto/Conversor-2---TDIG.git
+```
 
+2. **Abra  o terminal e através do git bash, execute os seguintes comandos:**
+   
+- npm install
+- npm run dev
 
+3. **Abra o link do local host (ctrl + click) que aparece após executar os comandos.**
+   
 👥 Integrantes da Equipe
 @viniciusbsouto
 
