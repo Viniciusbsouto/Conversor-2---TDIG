@@ -1,29 +1,26 @@
-💱 Projeto LDIG - Conversor de Moedas Online
-Aplicação web desenvolvida para conversão de moedas em tempo real, consumindo dados de uma API pública.
+# 💱 Projeto LDIG - Conversor de Moedas Online
 
-🚀 Tecnologias Utilizadas
-React
+Este projeto é um conversor de moedas online que consome a [API Frankfurter](https://api.frankfurter.app/) para realizar conversões em tempo real entre diferentes moedas.
 
-Vite (ambiente de desenvolvimento leve e rápido)
+---
 
-🔗 API Utilizada
-Frankfurter API — fornece dados de câmbio atualizados.
+## 🚀 Tecnologias Utilizadas
 
-🛠️ Como Executar o Projeto
-Clone o repositório:
+- **React**  
+- **Vite** (para ambiente de desenvolvimento local rápido)
+- **API Frankfurter** - [https://api.frankfurter.app](https://api.frankfurter.app)
 
-bash
-Copiar
-Editar
+---
+
+## ⚙️ Como Executar o Projeto
+
+Siga os passos abaixo para rodar a aplicação localmente:
+
+1. **Clone o repositório:**
+
+```bash
 git clone https://github.com/Viniciusbsouto/Conversor-2---TDIG.git
-Instale as dependências e inicie o projeto:
 
-bash
-Copiar
-Editar
-npm install
-npm run dev
-Abra o navegador no link gerado (geralmente http://localhost:5173) ou pressione Ctrl + Clique sobre ele no terminal.
 
 👥 Integrantes da Equipe
 @viniciusbsouto
